@@ -1,0 +1,44 @@
+[[plugins]]
+# Very simple vim plugin for easy resizing of your vim windows.
+repo = 'simeji/winresizer'
+
+[[plugins]]
+# Keymapped Ctr+n
+repo = 'scrooloose/nerdtree'
+
+[[plugins]]
+# git for vim. :Gxxx
+repo = 'tpope/vim-fugitive'
+
+[[plugins]]
+# vim for table
+# :TableModeToggle
+repo = 'dhruvasagar/vim-table-mode'
+
+[[plugins]]
+repo = 'tpope/vim-surround'
+
+[[plugins]]
+# V+jj + gcc
+repo = 'tpope/vim-commentary'
+
+[[plugins]]
+repo = 'sheerun/vim-polyglot'
+
+[[plugins]]
+repo = 'pangloss/vim-javascript'
+
+[[plugins]]
+repo = 'junegunn/vim-easy-align'
+
+[[plugins]]
+repo = 'othree/html5.vim'
+
+[[plugins]]
+repo = 'ap/vim-css-color'
+
+[[plugins]]
+repo = 'rust-lang/rust.vim'
+
+[[plugins]]
+repo = 'vim-ruby/vim-ruby'
